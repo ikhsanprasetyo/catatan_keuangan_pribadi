@@ -1,3 +1,22 @@
+# IDE
+.vs/
+.vscode/*
+!.vscode/launch.json
+.cache/
+.git/
+
+# output directory
+x64/
+x86/
+build/
+out/
+__pycache__/
+
+# precompiled headers
+*.ipch
+*.gch
+*.pch
+
 # Prerequisites
 *.d
 
@@ -30,3 +49,5 @@
 *.exe
 *.out
 *.app
+*.db
+.vs/catatan_keuangan_pribadi/v17/.suo
