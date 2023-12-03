@@ -54,8 +54,6 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
     return (int) msg.wParam;
 }
 
-
-
 //
 //  FUNCTION: MyRegisterClass()
 //
@@ -103,7 +101,7 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
    {
       return FALSE;
    }
-
+   
    ShowWindow(hWnd, nCmdShow);
    UpdateWindow(hWnd);
 
