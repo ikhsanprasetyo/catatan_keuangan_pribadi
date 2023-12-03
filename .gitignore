@@ -63,3 +63,5 @@ catatan_keuangan_pribadi/x64/Release/RCa08632
 *.pdb
 *.db
 .vs/catatan_keuangan_pribadi/v17/.suo
+.vs/catatan_keuangan_pribadi/v17/.suo
+*.db
