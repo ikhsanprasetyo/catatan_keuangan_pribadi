@@ -1,7 +1,6 @@
 // catatan_keuangan_pribadi.cpp : Defines the entry point for the application.
 //
 #include "pch.h"
-#include "framework.h"
 #include "catatan_keuangan_pribadi.h"
 
 #define MAX_LOADSTRING 100

@@ -142,10 +142,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="catatan_keuangan_pribadi.h" />
-    <ClInclude Include="framework.h" />
     <ClInclude Include="pch.h" />
-    <ClInclude Include="Resource.h" />
-    <ClInclude Include="targetver.h" />
+    <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="catatan_keuangan_pribadi.cpp" />

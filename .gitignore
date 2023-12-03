@@ -1,5 +1,5 @@
 # IDE
-.vs/
+.vs/*
 .vscode/*
 !.vscode/launch.json
 .cache/
@@ -7,8 +7,8 @@
 .vs/
 
 # output directory
-x64/
-x86/
+x64/*
+x86/*
 build/
 out/
 __pycache__/
@@ -51,3 +51,15 @@ __pycache__/
 *.out
 *.app
 *.db
+*.tlog
+*.log
+.vs/catatan_keuangan_pribadi/v17/.suo
+catatan_keuangan_pribadi/RCa13340
+*.recipe
+*.ipdb
+*.res
+catatan_keuangan_pribadi/x64/Release/catatan_keuangan_pribadi.vcxproj.FileListAbsolute.txt
+catatan_keuangan_pribadi/x64/Release/RCa08632
+*.pdb
+*.db
+.vs/catatan_keuangan_pribadi/v17/.suo
