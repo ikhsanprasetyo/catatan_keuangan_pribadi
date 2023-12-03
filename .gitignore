@@ -73,3 +73,5 @@ Browse.VC.db
 *.*.db
 *.db
 .vs/catatan_keuangan_pribadi/v17/.suo
+.vs/catatan_keuangan_pribadi/v17/.suo
+*.db
